@@ -1,0 +1,1 @@
+rclone sync . homeserver:mcstatusvelky --verbose --progress --exclude main.db --exclude venv/ --exclude .idea/

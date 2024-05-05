@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "mcstatusvelky"
+version = "0.1.0"
+description = ""
+authors = ["Akatsuki <mldkyt@proton.me>"]
+license = "GNU GPL 3.0"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pymongo = "^4.7.1"
+mcstatus = "^11.1.1"
